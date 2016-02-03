@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: Kotive Shortcode Plugin
+Plugin Name: Kotive Taskflow Shortcode
 Description: Embed Kotive taskflows and forms in pages and posts. Usage: <code>[kotive groupid="190" taskflowhash="1800e4ed80cb489381fff178f5dd4247" height="400"]</code>. This shortcode is available to copy and paste directly from the Taskflow settings in the Kotive Designer.
 Version: 1.0
 License: GPL
 Author: Kotive
 Author URI: http://kotive.com
-Text Domain: kotive-shortcode
+Text Domain: kotive-taskflow-shortcode
 */
 
 function createKotiveEmbed($atts, $content = null) {

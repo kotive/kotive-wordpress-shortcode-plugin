@@ -23,7 +23,7 @@ Embed Kotive taskflows and forms using a special short code [kotive]. The shortc
 
 == Installation ==
 
-For manual installation: copy the folder "kotive_shortcode" into the /wp-content/plugins/ folder. Then go to the Plugins area of the Admin and activate. Otherwise, search for "Kotive Shortcode Plugin" from the admin area of your WordPress site in Plugins > Add New.
+For manual installation: copy the folder "kotive_shortcode" into the /wp-content/plugins/ folder. Then go to the Plugins area of the Admin and activate. Otherwise, search for "Kotive Taskflow Shortcode" from the admin area of your WordPress site in Plugins > Add New.
 
 == Screenshots ==
 
